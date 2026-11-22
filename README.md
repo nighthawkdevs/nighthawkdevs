@@ -2,4 +2,4 @@
 - 👀 I’m interested in technology, development, competitive programming and AI engineering
 - 🌱 I’m currently looking for open-source projects to contribute!
 - 💞️ I’m looking forward to collaborate on many projects with you, let's brainstorm new ideas!!!!
-- 📫 How to reach me.. [My LinkedIn profile]([https://www.linkedin.com/in/nighthawkdevs/])
+- 📫 How to reach me.. [My LinkedIn profile](https://www.linkedin.com/in/nighthawkdevs/)
